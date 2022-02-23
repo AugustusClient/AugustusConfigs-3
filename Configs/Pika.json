@@ -1,7 +1,7 @@
 {
   "name": "Pika",
-  "date": "22.02.2022",
-  "time": "13:53",
+  "date": "23.02.2022",
+  "time": "11:24",
   "modules": [
     {
       "Name": "Velocity",
@@ -131,7 +131,7 @@
     },
     {
       "Name": "StorageESP",
-      "IsInConfig": false,
+      "IsInConfig": true,
       "Toggled": false,
       "Key": 45,
       "Category": "RENDER"
@@ -487,9 +487,9 @@
       "Category": "PLAYER"
     },
     {
-      "Name": "RotationFix",
+      "Name": "RotationLimiter",
       "IsInConfig": true,
-      "Toggled": false,
+      "Toggled": true,
       "Key": 0,
       "Category": "PLAYER"
     },
@@ -503,7 +503,7 @@
     {
       "Name": "NoRotationSet",
       "IsInConfig": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "PLAYER"
     },
@@ -635,7 +635,7 @@
     },
     {
       "Name": "KillMessage",
-      "IsInConfig": true,
+      "IsInConfig": false,
       "Toggled": false,
       "Key": 0,
       "Category": "MISC"
@@ -952,7 +952,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 14.0,
+      "Value": 60.0,
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -970,7 +970,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 34.0,
+      "Value": 80.0,
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -988,7 +988,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 15.0,
+      "Value": 60.0,
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -1006,7 +1006,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 26.0,
+      "Value": 80.0,
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -1024,7 +1024,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 70.0,
+      "Value": 78.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -1042,7 +1042,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 170.0,
+      "Value": 78.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -1078,7 +1078,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 19.0,
+      "Value": 9.0,
       "MinValue": 0.0,
       "MaxValue": 20.0,
       "DecimalPlaces": 0,
@@ -1096,7 +1096,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 20.0,
+      "Value": 12.0,
       "MinValue": 0.0,
       "MaxValue": 20.0,
       "DecimalPlaces": 0,
@@ -1132,7 +1132,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1422.0,
+      "Value": 1020.0,
       "MinValue": 0.0,
       "MaxValue": 4000.0,
       "DecimalPlaces": 0,
@@ -1231,7 +1231,7 @@
       "id": 4645118
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -1321,7 +1321,7 @@
       "id": 4645119
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -1402,7 +1402,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 4.0,
       "MinValue": 1.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 0,
@@ -1532,7 +1532,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Basic",
+      "SelectedOption": "Advanced",
       "Options": [
         "Basic",
         "Advanced",
@@ -1571,7 +1571,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.68,
+      "Value": 3.78,
       "MinValue": 0.01,
       "MaxValue": 5.0,
       "DecimalPlaces": 2,
@@ -1868,7 +1868,7 @@
       "id": 21
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -1994,7 +1994,7 @@
       "id": 1337
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -2102,7 +2102,7 @@
       "id": 47
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -2156,7 +2156,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "FOV",
+      "SelectedOption": "Distance",
       "Options": [
         "FOV",
         "Health",
@@ -2182,7 +2182,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "OnlyRotation",
+      "SelectedOption": "Basic",
       "Options": [
         "None",
         "Basic",
@@ -2254,7 +2254,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "None",
+      "SelectedOption": "Legit",
       "Options": [
         "None",
         "Constant",
@@ -2270,7 +2270,7 @@
       "id": 29
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -2288,7 +2288,7 @@
       "id": 108
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -2315,7 +2315,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 2.0,
       "MinValue": 0.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 0,
@@ -2430,7 +2430,8 @@
       "SelectedOption": "Box",
       "Options": [
         "None",
-        "Box"
+        "Box",
+        "Sigma"
       ],
       "Name": "TargetSort",
       "ParentName": "KillAura",
@@ -4918,7 +4919,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Length",
+      "SelectedOption": "Alphabet",
       "Options": [
         "Random",
         "Length",
@@ -5711,7 +5712,7 @@
       "id": 4
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -5738,7 +5739,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 0.13,
       "MinValue": -0.5,
       "MaxValue": 1.5,
       "DecimalPlaces": 2,
@@ -7865,7 +7866,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.5,
+      "Value": 0.6,
       "MinValue": 0.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -7883,7 +7884,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.5,
+      "Value": 0.6,
       "MinValue": 0.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -9419,6 +9420,42 @@
       "DecimalPlaces": 0,
       "Name": "AutoDisable",
       "ParentName": "Teleport",
+      "id": 1
+    },
+    {
+      "Boolean": false,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 80.0,
+      "MinValue": 0.0,
+      "MaxValue": 180.0,
+      "DecimalPlaces": 0,
+      "Name": "MaxYaw",
+      "ParentName": "RotationLimiter",
+      "id": 0
+    },
+    {
+      "Boolean": false,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 180.0,
+      "MinValue": 0.0,
+      "MaxValue": 180.0,
+      "DecimalPlaces": 0,
+      "Name": "MaxPitch",
+      "ParentName": "RotationLimiter",
       "id": 1
     },
     {
