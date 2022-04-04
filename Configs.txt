@@ -1,3 +1,2 @@
 Gomme
-Minemora
-Pika
+GommeSW
