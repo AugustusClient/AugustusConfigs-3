@@ -1,7 +1,7 @@
 {
   "name": "Gomme",
   "date": "04.04.2022",
-  "time": "14:04",
+  "time": "16:28",
   "modules": [
     {
       "Name": "Velocity",
@@ -377,7 +377,7 @@
     {
       "Name": "FastLadder",
       "IsInConfig": true,
-      "Toggled": false,
+      "Toggled": true,
       "Key": 47,
       "Category": "MOVEMENT"
     },
@@ -426,7 +426,7 @@
     {
       "Name": "NoFall",
       "IsInConfig": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 49,
       "Category": "PLAYER"
     },
@@ -543,7 +543,7 @@
       "Category": "WORLD"
     },
     {
-      "Name": "AutoBuild",
+      "Name": "Scaffold",
       "IsInConfig": true,
       "Toggled": false,
       "Key": 34,
@@ -658,7 +658,7 @@
         "Intave",
         "Reverse",
         "Spoof",
-        "SaveWalk",
+        "SafeWalk",
         "Test"
       ],
       "Name": "Mode",
@@ -4288,8 +4288,8 @@
       "Fade Dist": 0.0,
       "HSB Color": [
         0.0,
-        0.996063,
-        0.99607843
+        0.9952153,
+        0.9952153
       ],
       "HSB FadeColor": [
         0.0,
@@ -8231,7 +8231,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "All",
+      "SelectedOption": "OnlyMovement",
       "Options": [
         "OnlyMovement",
         "All"
@@ -10877,12 +10877,12 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 72.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
       "Name": "YawMin",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 1
     },
     {
@@ -10895,12 +10895,12 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 94.0,
+      "Value": 80.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
       "Name": "YawMax",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 2
     },
     {
@@ -10913,12 +10913,12 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 72.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
       "Name": "PitchMin",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 3
     },
     {
@@ -10931,12 +10931,12 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 94.0,
+      "Value": 80.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
       "Name": "PitchMax",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 4
     },
     {
@@ -10954,7 +10954,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "MoveFix",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 5
     },
     {
@@ -10972,7 +10972,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "AdStrafe",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 13
     },
     {
@@ -10990,7 +10990,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "Intave",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 5
     },
     {
@@ -11008,7 +11008,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "Improve",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 5
     },
     {
@@ -11026,7 +11026,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "EdgeRotateCheck",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 7
     },
     {
@@ -11044,7 +11044,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "EdgePlaceCheck",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 7
     },
     {
@@ -11062,7 +11062,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "SameY",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 18
     },
     {
@@ -11080,7 +11080,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "AutoJump",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 103
     },
     {
@@ -11098,7 +11098,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "Sprint",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 4
     },
     {
@@ -11116,7 +11116,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "AllDirectionSprint",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 105
     },
     {
@@ -11134,7 +11134,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "NoSwing",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 25
     },
     {
@@ -11152,7 +11152,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "SpamClick",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 20
     },
     {
@@ -11165,16 +11165,16 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 31.0,
+      "Value": 51.0,
       "MinValue": 0.0,
       "MaxValue": 200.0,
       "DecimalPlaces": 0,
       "Name": "ClickDelay",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 22
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -11188,11 +11188,11 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "SafeWalk",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 100
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -11206,11 +11206,11 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "SafeWalkAir",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 101
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -11224,7 +11224,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "SafeWalkOnlyNoBlocks",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 102
     },
     {
@@ -11242,11 +11242,11 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "Sneak",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 13
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -11260,7 +11260,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "RemoveStop",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 101
     },
     {
@@ -11278,7 +11278,7 @@
       "MaxValue": 10.0,
       "DecimalPlaces": 0,
       "Name": "SneakTicks",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 27
     },
     {
@@ -11296,7 +11296,7 @@
       "MaxValue": 15.0,
       "DecimalPlaces": 0,
       "Name": "SneakBlocksF",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 28
     },
     {
@@ -11314,11 +11314,11 @@
       "MaxValue": 15.0,
       "DecimalPlaces": 0,
       "Name": "SneakBlocksD",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 31
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -11332,7 +11332,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "SneakDelay",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 30
     },
     {
@@ -11345,12 +11345,12 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 4000.0,
+      "Value": 1000.0,
       "MinValue": 0.0,
       "MaxValue": 4000.0,
       "DecimalPlaces": 0,
       "Name": "SneakDelay",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 16
     },
     {
@@ -11374,7 +11374,7 @@
         "None"
       ],
       "Name": "SilentMode",
-      "ParentName": "AutoBuild",
+      "ParentName": "Scaffold",
       "id": 1
     },
     {
