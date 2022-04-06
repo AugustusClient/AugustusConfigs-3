@@ -1,7 +1,7 @@
 {
   "name": "Gomme",
-  "date": "04.04.2022",
-  "time": "16:28",
+  "date": "06.04.2022",
+  "time": "20:04",
   "modules": [
     {
       "Name": "Velocity",
@@ -377,8 +377,8 @@
     {
       "Name": "FastLadder",
       "IsInConfig": true,
-      "Toggled": true,
-      "Key": 47,
+      "Toggled": false,
+      "Key": 0,
       "Category": "MOVEMENT"
     },
     {
@@ -406,14 +406,14 @@
       "Name": "LongJump",
       "IsInConfig": true,
       "Toggled": false,
-      "Key": 0,
+      "Key": 47,
       "Category": "MOVEMENT"
     },
     {
       "Name": "VClip",
       "IsInConfig": true,
       "Toggled": false,
-      "Key": 24,
+      "Key": 0,
       "Category": "MOVEMENT"
     },
     {
@@ -468,7 +468,7 @@
     {
       "Name": "FakeLaag",
       "IsInConfig": true,
-      "Toggled": false,
+      "Toggled": true,
       "Key": 0,
       "Category": "PLAYER"
     },
@@ -503,7 +503,7 @@
     {
       "Name": "NoRotationSet",
       "IsInConfig": true,
-      "Toggled": false,
+      "Toggled": true,
       "Key": 0,
       "Category": "PLAYER"
     },
@@ -531,7 +531,7 @@
     {
       "Name": "Fucker",
       "IsInConfig": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 25,
       "Category": "WORLD"
     },
@@ -551,7 +551,7 @@
     },
     {
       "Name": "Radio",
-      "IsInConfig": true,
+      "IsInConfig": false,
       "Toggled": false,
       "Key": 0,
       "Category": "MISC"
@@ -1531,13 +1531,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 20.0,
+      "Value": 13.0,
       "MinValue": 0.0,
       "MaxValue": 20.0,
       "DecimalPlaces": 0,
       "Name": "MinCPS",
       "ParentName": "AutoClicker",
-      "id": 6
+      "id": 6794
     },
     {
       "Boolean": false,
@@ -1555,7 +1555,7 @@
       "DecimalPlaces": 0,
       "Name": "MaxCPS",
       "ParentName": "AutoClicker",
-      "id": 7
+      "id": 6795
     },
     {
       "Boolean": false,
@@ -1567,13 +1567,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 711.0,
+      "Value": 800.0,
       "MinValue": 0.0,
       "MaxValue": 4000.0,
       "DecimalPlaces": 0,
       "Name": "MinDelay",
       "ParentName": "AutoClicker",
-      "id": 8
+      "id": 6796
     },
     {
       "Boolean": false,
@@ -1585,13 +1585,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1555.0,
+      "Value": 2500.0,
       "MinValue": 0.0,
       "MaxValue": 4000.0,
       "DecimalPlaces": 0,
       "Name": "MaxDelay",
       "ParentName": "AutoClicker",
-      "id": 9
+      "id": 6797
     },
     {
       "Boolean": false,
@@ -1643,9 +1643,9 @@
       "MinValue": 0.0,
       "MaxValue": 2000.0,
       "DecimalPlaces": 0,
-      "Name": "MinSpikeDur",
+      "Name": "MinSpikeDuration",
       "ParentName": "AutoClicker",
-      "id": 13
+      "id": 6801
     },
     {
       "Boolean": false,
@@ -1661,9 +1661,9 @@
       "MinValue": 0.0,
       "MaxValue": 2000.0,
       "DecimalPlaces": 0,
-      "Name": "MaxSpikeDur",
+      "Name": "MaxSpikeDuration",
       "ParentName": "AutoClicker",
-      "id": 14
+      "id": 6802
     },
     {
       "Boolean": false,
@@ -1729,13 +1729,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 222.0,
+      "Value": 500.0,
       "MinValue": 0.0,
       "MaxValue": 2000.0,
       "DecimalPlaces": 0,
-      "Name": "MinDropDur",
+      "Name": "MinDropDuration",
       "ParentName": "AutoClicker",
-      "id": 16
+      "id": 6804
     },
     {
       "Boolean": false,
@@ -1747,13 +1747,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 555.0,
+      "Value": 1000.0,
       "MinValue": 0.0,
       "MaxValue": 2000.0,
       "DecimalPlaces": 0,
-      "Name": "MaxDropDur",
+      "Name": "MaxDropDuration",
       "ParentName": "AutoClicker",
-      "id": 17
+      "id": 6805
     },
     {
       "Boolean": false,
@@ -1877,12 +1877,12 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "Name": "ReduceHurtTime",
+      "Name": "0",
       "ParentName": "AutoClicker",
-      "id": 46451299
+      "id": 88
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -1891,13 +1891,175 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 4.0,
+      "Value": 0.0,
       "MinValue": 0.0,
-      "MaxValue": 10.0,
+      "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "Name": "HurtTimeToReduce",
+      "Name": "1",
       "ParentName": "AutoClicker",
-      "id": 46451296
+      "id": 89
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "2",
+      "ParentName": "AutoClicker",
+      "id": 90
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "3",
+      "ParentName": "AutoClicker",
+      "id": 91
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "4",
+      "ParentName": "AutoClicker",
+      "id": 92
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "5",
+      "ParentName": "AutoClicker",
+      "id": 93
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "6",
+      "ParentName": "AutoClicker",
+      "id": 94
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "7",
+      "ParentName": "AutoClicker",
+      "id": 95
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "8",
+      "ParentName": "AutoClicker",
+      "id": 96
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "9",
+      "ParentName": "AutoClicker",
+      "id": 97
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "SmartClicking",
+      "ParentName": "AutoClicker",
+      "id": 99
     },
     {
       "Boolean": false,
@@ -1909,13 +2071,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.2,
+      "Value": 3.0,
       "MinValue": 0.0,
-      "MaxValue": 1.0,
-      "DecimalPlaces": 2,
-      "Name": "HurtTimeMulti",
+      "MaxValue": 9.0,
+      "DecimalPlaces": 0,
+      "Name": "SmartClickingHurttimeEnd",
       "ParentName": "AutoClicker",
-      "id": 46451263
+      "id": 1000
     },
     {
       "Boolean": false,
@@ -2413,13 +2575,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 34.0,
+      "Value": 15.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
       "Name": "MinYawSpeed",
       "ParentName": "AimBot",
-      "id": 8
+      "id": 6796
     },
     {
       "Boolean": false,
@@ -2431,13 +2593,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 48.0,
+      "Value": 31.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
       "Name": "MaxYawSpeed",
       "ParentName": "AimBot",
-      "id": 8
+      "id": 6797
     },
     {
       "Boolean": false,
@@ -2449,13 +2611,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 8.0,
+      "Value": 16.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
       "Name": "MinPitchSpeed",
       "ParentName": "AimBot",
-      "id": 9
+      "id": 6796
     },
     {
       "Boolean": false,
@@ -2467,13 +2629,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 13.0,
+      "Value": 37.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
       "Name": "MaxPitchSpeed",
       "ParentName": "AimBot",
-      "id": 8
+      "id": 6797
     },
     {
       "Boolean": false,
@@ -2777,9 +2939,9 @@
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
-      "Name": "YawSpeedMin",
+      "Name": "MinYawSpeed",
       "ParentName": "KillAura",
-      "id": 4
+      "id": 6792
     },
     {
       "Boolean": false,
@@ -2795,9 +2957,9 @@
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
-      "Name": "YawSpeedMax",
+      "Name": "MaxYawSpeed",
       "ParentName": "KillAura",
-      "id": 5
+      "id": 6793
     },
     {
       "Boolean": false,
@@ -2813,9 +2975,9 @@
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
-      "Name": "PitchSpeedMin",
+      "Name": "MinPitchSpeed",
       "ParentName": "KillAura",
-      "id": 6
+      "id": 6793
     },
     {
       "Boolean": false,
@@ -2831,9 +2993,9 @@
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
-      "Name": "PitchSpeedMax",
+      "Name": "MaxPitchSpeed",
       "ParentName": "KillAura",
-      "id": 7
+      "id": 6794
     },
     {
       "Boolean": true,
@@ -3268,7 +3430,7 @@
       "id": 28
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -3304,7 +3466,7 @@
       "id": 30
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -3398,7 +3560,7 @@
       "DecimalPlaces": 0,
       "Name": "MinDelay",
       "ParentName": "KillAura",
-      "id": 36
+      "id": 6824
     },
     {
       "Boolean": false,
@@ -3416,7 +3578,7 @@
       "DecimalPlaces": 0,
       "Name": "MaxDelay",
       "ParentName": "KillAura",
-      "id": 37
+      "id": 6825
     },
     {
       "Boolean": false,
@@ -3452,7 +3614,7 @@
       "DecimalPlaces": 0,
       "Name": "MinCPS",
       "ParentName": "KillAura",
-      "id": 39
+      "id": 6827
     },
     {
       "Boolean": false,
@@ -3470,7 +3632,7 @@
       "DecimalPlaces": 0,
       "Name": "MaxCPS",
       "ParentName": "KillAura",
-      "id": 40
+      "id": 6828
     },
     {
       "Boolean": false,
@@ -3488,7 +3650,7 @@
       "DecimalPlaces": 0,
       "Name": "MinDelay",
       "ParentName": "KillAura",
-      "id": 41
+      "id": 6829
     },
     {
       "Boolean": false,
@@ -3506,7 +3668,7 @@
       "DecimalPlaces": 0,
       "Name": "MaxDelay",
       "ParentName": "KillAura",
-      "id": 42
+      "id": 6830
     },
     {
       "Boolean": false,
@@ -3558,9 +3720,9 @@
       "MinValue": 0.0,
       "MaxValue": 2000.0,
       "DecimalPlaces": 0,
-      "Name": "MinSpikeDur",
+      "Name": "MinSpikeDuration",
       "ParentName": "KillAura",
-      "id": 45
+      "id": 6833
     },
     {
       "Boolean": false,
@@ -3576,9 +3738,9 @@
       "MinValue": 0.0,
       "MaxValue": 2000.0,
       "DecimalPlaces": 0,
-      "Name": "MaxSpikeDur",
+      "Name": "MaxSpikeDuration",
       "ParentName": "KillAura",
-      "id": 46
+      "id": 6834
     },
     {
       "Boolean": false,
@@ -3648,9 +3810,9 @@
       "MinValue": 0.0,
       "MaxValue": 2000.0,
       "DecimalPlaces": 0,
-      "Name": "MinDropDur",
+      "Name": "MinDropDuraion",
       "ParentName": "KillAura",
-      "id": 50
+      "id": 6838
     },
     {
       "Boolean": false,
@@ -3666,9 +3828,9 @@
       "MinValue": 0.0,
       "MaxValue": 2000.0,
       "DecimalPlaces": 0,
-      "Name": "MaxDropDur",
+      "Name": "MaxDropDuraion",
       "ParentName": "KillAura",
-      "id": 51
+      "id": 6839
     },
     {
       "Boolean": false,
@@ -3716,7 +3878,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.6,
+      "Value": 0.65,
       "MinValue": 0.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -3738,12 +3900,12 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "Name": "ReduceHurtTime",
+      "Name": "0",
       "ParentName": "KillAura",
-      "id": 85
+      "id": 88
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -3752,13 +3914,175 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 4.0,
+      "Value": 0.0,
       "MinValue": 0.0,
-      "MaxValue": 10.0,
+      "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "Name": "HurtTimeToReduce",
+      "Name": "1",
       "ParentName": "KillAura",
-      "id": 86
+      "id": 89
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "2",
+      "ParentName": "KillAura",
+      "id": 90
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "3",
+      "ParentName": "KillAura",
+      "id": 91
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "4",
+      "ParentName": "KillAura",
+      "id": 92
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "5",
+      "ParentName": "KillAura",
+      "id": 93
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "6",
+      "ParentName": "KillAura",
+      "id": 94
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "7",
+      "ParentName": "KillAura",
+      "id": 95
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "8",
+      "ParentName": "KillAura",
+      "id": 96
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "9",
+      "ParentName": "KillAura",
+      "id": 97
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "SmartClicking",
+      "ParentName": "KillAura",
+      "id": 99
     },
     {
       "Boolean": false,
@@ -3770,13 +4094,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.2,
+      "Value": 3.0,
       "MinValue": 0.0,
-      "MaxValue": 1.0,
-      "DecimalPlaces": 2,
-      "Name": "HurtTimeMulti",
+      "MaxValue": 9.0,
+      "DecimalPlaces": 0,
+      "Name": "SmartClickingHurttimeEnd",
       "ParentName": "KillAura",
-      "id": 87
+      "id": 1000
     },
     {
       "Boolean": false,
@@ -3794,7 +4118,7 @@
       "DecimalPlaces": 0,
       "Name": "MinAverageCPS",
       "ParentName": "KillAura",
-      "id": 55
+      "id": 6843
     },
     {
       "Boolean": false,
@@ -3812,7 +4136,7 @@
       "DecimalPlaces": 0,
       "Name": "MaxAverageCPS",
       "ParentName": "KillAura",
-      "id": 56
+      "id": 6844
     },
     {
       "Boolean": false,
@@ -3848,7 +4172,7 @@
       "DecimalPlaces": 0,
       "Name": "MinMultiDelay",
       "ParentName": "KillAura",
-      "id": 58
+      "id": 6846
     },
     {
       "Boolean": false,
@@ -3866,7 +4190,7 @@
       "DecimalPlaces": 0,
       "Name": "MaxMultiDelay",
       "ParentName": "KillAura",
-      "id": 59
+      "id": 6847
     },
     {
       "Boolean": false,
@@ -3884,7 +4208,7 @@
       "DecimalPlaces": 0,
       "Name": "MinDelay",
       "ParentName": "KillAura",
-      "id": 60
+      "id": 6848
     },
     {
       "Boolean": false,
@@ -3902,7 +4226,7 @@
       "DecimalPlaces": 0,
       "Name": "MaxDelay",
       "ParentName": "KillAura",
-      "id": 61
+      "id": 6849
     },
     {
       "Boolean": false,
@@ -3920,7 +4244,7 @@
       "DecimalPlaces": 0,
       "Name": "MinDuration",
       "ParentName": "KillAura",
-      "id": 62
+      "id": 6850
     },
     {
       "Boolean": false,
@@ -3938,7 +4262,7 @@
       "DecimalPlaces": 0,
       "Name": "MaxDuration",
       "ParentName": "KillAura",
-      "id": 63
+      "id": 6851
     },
     {
       "Boolean": false,
@@ -3954,7 +4278,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "UltimateSwitch",
+      "SelectedOption": "Health",
       "Options": [
         "FOV",
         "Health",
@@ -3980,7 +4304,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Hybrid",
+      "SelectedOption": "Basic",
       "Options": [
         "None",
         "Basic",
@@ -4226,7 +4550,7 @@
         "Box",
         "Sigma"
       ],
-      "Name": "TargetSort",
+      "Name": "TargetESP",
       "ParentName": "KillAura",
       "id": 77
     },
@@ -4288,8 +4612,8 @@
       "Fade Dist": 0.0,
       "HSB Color": [
         0.0,
-        0.9952153,
-        0.9952153
+        0.996063,
+        0.99607843
       ],
       "HSB FadeColor": [
         0.0,
@@ -5899,7 +6223,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Basic",
+      "SelectedOption": "Amogus",
       "Options": [
         "None",
         "Basic",
@@ -5922,7 +6246,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.57,
+      "Value": 0.39,
       "MinValue": 0.01,
       "MaxValue": 2.0,
       "DecimalPlaces": 2,
@@ -6015,21 +6339,21 @@
     {
       "Boolean": false,
       "Alpha": 255,
-      "FadeAlpha": 157,
+      "FadeAlpha": 255,
       "Rainbow": false,
-      "Fade": false,
+      "Fade": true,
       "Rainbow Speed": 1.0,
       "Rainbow Dist": 0.0,
-      "Fade Speed": 31.0,
-      "Fade Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 240.0,
       "HSB Color": [
-        0.57575756,
+        0.17193675,
         0.996063,
         0.99607843
       ],
       "HSB FadeColor": [
-        0.57067513,
-        0.62204725,
+        0.9953887,
+        0.996063,
         0.99607843
       ],
       "Value": 0.0,
@@ -7094,12 +7418,12 @@
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
       "HSB Color": [
-        0.6969697,
+        0.8787879,
         0.996063,
         0.99607843
       ],
       "HSB FadeColor": [
-        0.7017134,
+        0.9953271,
         0.8425197,
         0.99607843
       ],
@@ -7127,7 +7451,7 @@
         0.99607843
       ],
       "HSB FadeColor": [
-        0.68111753,
+        0.64643544,
         0.68110234,
         0.99607843
       ],
@@ -8260,7 +8584,7 @@
         "GroundColl",
         "AirJump",
         "Verus",
-        "MinemenTest",
+        "Verus2",
         "Minemora"
       ],
       "Name": "Mode",
@@ -8504,11 +8828,11 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": -0.14,
+      "Value": -0.2,
       "MinValue": -0.42,
       "MaxValue": 0.42,
       "DecimalPlaces": 2,
-      "Name": "JumpMotion",
+      "Name": "MotionToJump",
       "ParentName": "Spider",
       "id": 3
     },
@@ -8526,7 +8850,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "Name": "CustomMotion",
+      "Name": "CustomMotionAtJump",
       "ParentName": "Spider",
       "id": 5
     },
@@ -8540,11 +8864,11 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.42,
+      "Value": 0.3,
       "MinValue": 0.0,
       "MaxValue": 2.0,
       "DecimalPlaces": 2,
-      "Name": "Motion",
+      "Name": "CustomMotion",
       "ParentName": "Spider",
       "id": 1
     },
@@ -9432,7 +9756,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 90.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -9450,7 +9774,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 90.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -9558,7 +9882,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 51.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 20000.0,
       "DecimalPlaces": 0,
@@ -10047,9 +10371,9 @@
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
-      "Name": "YawSpeed",
+      "Name": "MinYawSpeed",
       "ParentName": "Fucker",
-      "id": 5
+      "id": 6793
     },
     {
       "Boolean": false,
@@ -10065,9 +10389,45 @@
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
-      "Name": "PitchSpeed",
+      "Name": "MaxYawSpeed",
       "ParentName": "Fucker",
-      "id": 6
+      "id": 6794
+    },
+    {
+      "Boolean": false,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 180.0,
+      "MinValue": 0.0,
+      "MaxValue": 180.0,
+      "DecimalPlaces": 0,
+      "Name": "MinPitchSpeed",
+      "ParentName": "Fucker",
+      "id": 6794
+    },
+    {
+      "Boolean": false,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 180.0,
+      "MinValue": 0.0,
+      "MaxValue": 180.0,
+      "DecimalPlaces": 0,
+      "Name": "MaxPitchSpeed",
+      "ParentName": "Fucker",
+      "id": 6795
     },
     {
       "Boolean": false,
@@ -10877,31 +11237,13 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 50.0,
+      "Value": 30.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
-      "Name": "YawMin",
+      "Name": "MinYawSpeed",
       "ParentName": "Scaffold",
-      "id": 1
-    },
-    {
-      "Boolean": false,
-      "Alpha": 0,
-      "FadeAlpha": 0,
-      "Rainbow": false,
-      "Fade": false,
-      "Rainbow Speed": 0.0,
-      "Rainbow Dist": 0.0,
-      "Fade Speed": 0.0,
-      "Fade Dist": 0.0,
-      "Value": 80.0,
-      "MinValue": 0.0,
-      "MaxValue": 180.0,
-      "DecimalPlaces": 0,
-      "Name": "YawMax",
-      "ParentName": "Scaffold",
-      "id": 2
+      "id": 6789
     },
     {
       "Boolean": false,
@@ -10917,9 +11259,9 @@
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
-      "Name": "PitchMin",
+      "Name": "MaxYawSpeed",
       "ParentName": "Scaffold",
-      "id": 3
+      "id": 6790
     },
     {
       "Boolean": false,
@@ -10931,13 +11273,31 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 80.0,
+      "Value": 30.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
-      "Name": "PitchMax",
+      "Name": "MinPitchSpeed",
       "ParentName": "Scaffold",
-      "id": 4
+      "id": 6790
+    },
+    {
+      "Boolean": false,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 50.0,
+      "MinValue": 0.0,
+      "MaxValue": 180.0,
+      "DecimalPlaces": 0,
+      "Name": "MaxPitchSpeed",
+      "ParentName": "Scaffold",
+      "id": 6791
     },
     {
       "Boolean": true,
@@ -11030,7 +11390,7 @@
       "id": 7
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -11376,6 +11736,30 @@
       "Name": "SilentMode",
       "ParentName": "Scaffold",
       "id": 1
+    },
+    {
+      "Boolean": false,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "SelectedOption": "Intave",
+      "Options": [
+        "Legit",
+        "Intave",
+        "NCP"
+      ],
+      "Name": "TowerMode",
+      "ParentName": "Scaffold",
+      "id": 2342
     },
     {
       "Boolean": false,
