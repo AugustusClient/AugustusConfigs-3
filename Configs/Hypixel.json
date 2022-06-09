@@ -1,11 +1,11 @@
 {
-  "name": "Pika",
+  "name": "Hypixel",
   "date": "09.06.2022",
-  "time": "23:38",
+  "time": "23:33",
   "modules": [
     {
       "Name": "Blur",
-      "IsInConfig": false,
+      "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": true,
       "Key": 0,
@@ -13,7 +13,7 @@
     },
     {
       "Name": "Shadow",
-      "IsInConfig": false,
+      "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": true,
       "Key": 0,
@@ -31,7 +31,7 @@
       "Name": "AntiBot",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "COMBAT"
     },
@@ -48,14 +48,14 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": false,
-      "Key": 48,
+      "Key": 0,
       "Category": "COMBAT"
     },
     {
       "Name": "AutoSoup",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "COMBAT"
     },
@@ -71,7 +71,7 @@
       "Name": "AutoPot",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "COMBAT"
     },
@@ -88,7 +88,7 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": false,
-      "Key": 48,
+      "Key": 0,
       "Category": "COMBAT"
     },
     {
@@ -103,7 +103,7 @@
       "Name": "MoreKB",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "COMBAT"
     },
@@ -151,7 +151,7 @@
       "Name": "BowAimbot",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "COMBAT"
     },
@@ -160,7 +160,7 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": false,
-      "Key": 19,
+      "Key": 0,
       "Category": "COMBAT"
     },
     {
@@ -183,7 +183,7 @@
       "Name": "AttackEffects",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -199,15 +199,15 @@
       "Name": "StorageESP",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": false,
-      "Key": 45,
+      "Toggled": true,
+      "Key": 0,
       "Category": "RENDER"
     },
     {
       "Name": "BlockAnimation",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": false,
+      "Toggled": true,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -215,7 +215,7 @@
       "Name": "FullBright",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -223,7 +223,7 @@
       "Name": "Protector",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -231,7 +231,7 @@
       "Name": "NameTags",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -255,7 +255,7 @@
       "Name": "ItemESP",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -272,7 +272,7 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": true,
-      "Key": 27,
+      "Key": 0,
       "Category": "RENDER"
     },
     {
@@ -287,7 +287,7 @@
       "Name": "Line",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -303,7 +303,7 @@
       "Name": "Crosshair",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -327,7 +327,7 @@
       "Name": "CustomGlint",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -335,7 +335,7 @@
       "Name": "CustomItemPos",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -343,7 +343,7 @@
       "Name": "Notification",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -351,7 +351,7 @@
       "Name": "EntityColor",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -359,7 +359,7 @@
       "Name": "Chams",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -367,7 +367,7 @@
       "Name": "LegacyAnimations",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -375,7 +375,7 @@
       "Name": "BlockOverlay",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -391,13 +391,13 @@
       "Name": "AntiHurtCam",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
     {
       "Name": "CustomName",
-      "IsInConfig": true,
+      "IsInConfig": false,
       "IsInArraylist": true,
       "Toggled": true,
       "Key": 0,
@@ -407,7 +407,7 @@
       "Name": "AntiInvisibles",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -431,7 +431,7 @@
       "Name": "ItemPhysics",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -439,7 +439,7 @@
       "Name": "AntiBlind",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -456,7 +456,7 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": false,
-      "Key": 36,
+      "Key": 0,
       "Category": "MOVEMENT"
     },
     {
@@ -504,14 +504,14 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": false,
-      "Key": 35,
+      "Key": 33,
       "Category": "MOVEMENT"
     },
     {
       "Name": "BugUp",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "MOVEMENT"
     },
@@ -543,7 +543,7 @@
       "Name": "NoWeb",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "MOVEMENT"
     },
@@ -592,7 +592,7 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": false,
-      "Key": 50,
+      "Key": 0,
       "Category": "MOVEMENT"
     },
     {
@@ -623,8 +623,8 @@
       "Name": "ChestStealer",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": false,
-      "Key": 45,
+      "Toggled": true,
+      "Key": 16,
       "Category": "PLAYER"
     },
     {
@@ -663,7 +663,7 @@
       "Name": "RotationLimiter",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "PLAYER"
     },
@@ -679,7 +679,7 @@
       "Name": "NoRotationSet",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "PLAYER"
     },
@@ -688,7 +688,7 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": false,
-      "Key": 33,
+      "Key": 0,
       "Category": "PLAYER"
     },
     {
@@ -728,7 +728,7 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": false,
-      "Key": 25,
+      "Key": 0,
       "Category": "WORLD"
     },
     {
@@ -744,7 +744,7 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": false,
-      "Key": 34,
+      "Key": 50,
       "Category": "WORLD"
     },
     {
@@ -768,14 +768,14 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": true,
-      "Key": 24,
+      "Key": 0,
       "Category": "MISC"
     },
     {
       "Name": "Disabler",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": false,
+      "Toggled": true,
       "Key": 0,
       "Category": "MISC"
     },
@@ -783,7 +783,7 @@
       "Name": "AutoPlay",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "MISC"
     },
@@ -791,7 +791,7 @@
       "Name": "AutoRegister",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "MISC"
     },
@@ -906,7 +906,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 6.0,
+      "Value": 9.3,
       "MinValue": 4.0,
       "MaxValue": 30.0,
       "DecimalPlaces": 1,
@@ -927,7 +927,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 25.0,
+      "Value": 7.5,
       "MinValue": 0.0,
       "MaxValue": 25.0,
       "DecimalPlaces": 1,
@@ -936,7 +936,7 @@
       "id": 2
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -978,7 +978,7 @@
       "id": 4
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -1032,7 +1032,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 10.4,
+      "Value": 7.4,
       "MinValue": 0.0,
       "MaxValue": 30.0,
       "DecimalPlaces": 1,
@@ -1083,7 +1083,7 @@
       "id": 3
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -1193,7 +1193,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.5,
+      "Value": 0.6,
       "MinValue": -1.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -1202,7 +1202,7 @@
       "id": 5
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -1256,7 +1256,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.1,
+      "Value": 7.01,
       "MinValue": 0.01,
       "MaxValue": 20.0,
       "DecimalPlaces": 2,
@@ -1277,7 +1277,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 9.0,
+      "Value": 8.0,
       "MinValue": 1.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 0,
@@ -1298,7 +1298,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 2.0,
+      "Value": 1.0,
       "MinValue": 1.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 0,
@@ -1319,7 +1319,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 9.0,
+      "Value": 8.0,
       "MinValue": 1.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 0,
@@ -1328,7 +1328,7 @@
       "id": 12
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -1412,7 +1412,7 @@
       "id": 16
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -1470,7 +1470,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Mineplex",
+      "SelectedOption": "Custom",
       "Options": [
         "Mineplex",
         "Custom"
@@ -1560,7 +1560,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 450.0,
+      "Value": 250.0,
       "MinValue": 0.0,
       "MaxValue": 30000.0,
       "DecimalPlaces": 0,
@@ -1585,7 +1585,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Classic",
+      "SelectedOption": "PlayerModelArmor",
       "Options": [
         "None",
         "Classic",
@@ -1660,7 +1660,7 @@
       "id": 19
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -2050,7 +2050,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 11.0,
+      "Value": 12.0,
       "MinValue": 1.0,
       "MaxValue": 20.0,
       "DecimalPlaces": 0,
@@ -2071,7 +2071,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 14.0,
+      "Value": 13.0,
       "MinValue": 1.0,
       "MaxValue": 20.0,
       "DecimalPlaces": 0,
@@ -2092,7 +2092,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 50.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 500.0,
       "DecimalPlaces": 0,
@@ -2113,7 +2113,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 100.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 500.0,
       "DecimalPlaces": 0,
@@ -2155,7 +2155,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 50.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 500.0,
       "DecimalPlaces": 0,
@@ -2176,7 +2176,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 100.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 500.0,
       "DecimalPlaces": 0,
@@ -2248,7 +2248,7 @@
       "id": 6
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -2281,7 +2281,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 200.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -2302,7 +2302,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 50.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 500.0,
       "DecimalPlaces": 0,
@@ -2323,7 +2323,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 100.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 500.0,
       "DecimalPlaces": 0,
@@ -2365,7 +2365,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 110.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -2386,7 +2386,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 13.0,
+      "Value": 20.0,
       "MinValue": 0.0,
       "MaxValue": 20.0,
       "DecimalPlaces": 0,
@@ -2428,7 +2428,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 800.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 4000.0,
       "DecimalPlaces": 0,
@@ -2449,7 +2449,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 2500.0,
+      "Value": 460.0,
       "MinValue": 0.0,
       "MaxValue": 4000.0,
       "DecimalPlaces": 0,
@@ -2596,7 +2596,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 7000.0,
+      "Value": 7333.0,
       "MinValue": 0.0,
       "MaxValue": 20000.0,
       "DecimalPlaces": 0,
@@ -2668,7 +2668,7 @@
       "id": 19
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -2701,7 +2701,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.5,
+      "Value": 0.6,
       "MinValue": 0.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -2764,7 +2764,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.5,
+      "Value": 3.0,
       "MinValue": 0.0,
       "MaxValue": 5.0,
       "DecimalPlaces": 2,
@@ -3041,7 +3041,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Basic",
+      "SelectedOption": "Advanced",
       "Options": [
         "Basic",
         "Advanced",
@@ -3050,27 +3050,6 @@
       "Name": "Mode",
       "ParentName": "AutoClicker",
       "id": 4
-    },
-    {
-      "Boolean": false,
-      "Alpha": 0,
-      "FadeAlpha": 0,
-      "Rainbow": false,
-      "Fade": false,
-      "Astolfo Speed": 0.0,
-      "Astolfo Dist": 0.0,
-      "Astolfo": false,
-      "Rainbow Speed": 0.0,
-      "Rainbow Dist": 0.0,
-      "Fade Speed": 0.0,
-      "Fade Dist": 0.0,
-      "Value": 0.0,
-      "MinValue": 0.0,
-      "MaxValue": 0.0,
-      "DecimalPlaces": 0,
-      "Name": "BreakBlocks",
-      "ParentName": "AutoClicker",
-      "id": 1111
     },
     {
       "Boolean": true,
@@ -3089,9 +3068,9 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "Name": "ValidSlot",
+      "Name": "BreakBlocks",
       "ParentName": "AutoClicker",
-      "id": 123343
+      "id": 1111
     },
     {
       "Boolean": false,
@@ -3570,7 +3549,7 @@
       "id": 1344
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -3624,7 +3603,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 4.0,
+      "Value": 6.0,
       "MinValue": 0.0,
       "MaxValue": 15.0,
       "DecimalPlaces": 1,
@@ -3645,7 +3624,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 60.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -3666,7 +3645,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 4.0,
+      "Value": 6.0,
       "MinValue": 0.0,
       "MaxValue": 6.0,
       "DecimalPlaces": 2,
@@ -3708,7 +3687,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 10.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 20.0,
       "DecimalPlaces": 0,
@@ -3750,7 +3729,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 2.0,
+      "Value": 4.0,
       "MinValue": 1.0,
       "MaxValue": 4.0,
       "DecimalPlaces": 0,
@@ -3780,7 +3759,7 @@
       "id": 6
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -3843,7 +3822,7 @@
       "id": 9
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -3922,7 +3901,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Packet",
+      "SelectedOption": "NoGround",
       "Options": [
         "NoGround",
         "Packet",
@@ -4110,7 +4089,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Basic",
+      "SelectedOption": "OnlyRotation",
       "Options": [
         "None",
         "Basic",
@@ -4260,7 +4239,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 5.0,
+      "Value": 4.4,
       "MinValue": 0.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 1,
@@ -4281,7 +4260,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.5,
+      "Value": 1.0,
       "MinValue": 0.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -4302,7 +4281,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.5,
+      "Value": 1.0,
       "MinValue": 0.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -4323,7 +4302,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.5,
+      "Value": 0.41,
       "MinValue": 0.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -4344,7 +4323,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.5,
+      "Value": 1.0,
       "MinValue": 0.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -4365,7 +4344,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 45.0,
+      "Value": 108.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -4386,7 +4365,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 26.0,
+      "Value": 87.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -4437,7 +4416,7 @@
       "id": 1
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -4458,7 +4437,7 @@
       "id": 2
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -4479,7 +4458,7 @@
       "id": 3
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -4542,7 +4521,7 @@
       "id": 1
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -4575,7 +4554,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 5.0,
+      "Value": 4.2,
       "MinValue": 0.0,
       "MaxValue": 15.0,
       "DecimalPlaces": 1,
@@ -4596,7 +4575,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 3.0,
+      "Value": 4.2,
       "MinValue": 3.0,
       "MaxValue": 6.0,
       "DecimalPlaces": 2,
@@ -4731,7 +4710,7 @@
       "id": 8
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -4857,7 +4836,7 @@
       "id": 13
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -4941,7 +4920,7 @@
       "id": 10001
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -4983,7 +4962,7 @@
       "id": 17
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -5088,7 +5067,7 @@
       "id": 22
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -5142,7 +5121,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 51.0,
+      "Value": 100.0,
       "MinValue": 1.0,
       "MaxValue": 100.0,
       "DecimalPlaces": 0,
@@ -5163,7 +5142,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 100.0,
       "MinValue": 1.0,
       "MaxValue": 100.0,
       "DecimalPlaces": 0,
@@ -5256,7 +5235,7 @@
       "id": 30
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -5298,7 +5277,7 @@
       "id": 32
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -5345,27 +5324,6 @@
       "id": 666
     },
     {
-      "Boolean": true,
-      "Alpha": 0,
-      "FadeAlpha": 0,
-      "Rainbow": false,
-      "Fade": false,
-      "Astolfo Speed": 0.0,
-      "Astolfo Dist": 0.0,
-      "Astolfo": false,
-      "Rainbow Speed": 0.0,
-      "Rainbow Dist": 0.0,
-      "Fade Speed": 0.0,
-      "Fade Dist": 0.0,
-      "Value": 0.0,
-      "MinValue": 0.0,
-      "MaxValue": 0.0,
-      "DecimalPlaces": 0,
-      "Name": "ValidSlot",
-      "ParentName": "KillAura",
-      "id": 123343
-    },
-    {
       "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
@@ -5382,7 +5340,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Advanced",
+      "SelectedOption": "Basic",
       "Options": [
         "Basic",
         "Advanced",
@@ -5406,7 +5364,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 50.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -5427,7 +5385,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 100.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -5469,7 +5427,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 11.0,
+      "Value": 20.0,
       "MinValue": 0.0,
       "MaxValue": 20.0,
       "DecimalPlaces": 0,
@@ -5490,7 +5448,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 14.0,
+      "Value": 20.0,
       "MinValue": 0.0,
       "MaxValue": 20.0,
       "DecimalPlaces": 0,
@@ -5751,7 +5709,7 @@
       "id": 52
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -6003,7 +5961,7 @@
       "id": 97
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -6036,7 +5994,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 4.0,
+      "Value": 2.0,
       "MinValue": 0.0,
       "MaxValue": 9.0,
       "DecimalPlaces": 0,
@@ -6279,7 +6237,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "SecureRandom",
+      "SelectedOption": "Intave",
       "Options": [
         "Random",
         "SecureRandom",
@@ -6307,7 +6265,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Doubled",
+      "SelectedOption": "None",
       "Options": [
         "None",
         "Basic",
@@ -6332,7 +6290,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.73,
+      "Value": 1.0,
       "MinValue": 0.01,
       "MaxValue": 5.0,
       "DecimalPlaces": 2,
@@ -6454,7 +6412,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 4.0,
       "MinValue": 0.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 0,
@@ -6475,7 +6433,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 10.0,
+      "Value": 9.0,
       "MinValue": 0.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 0,
@@ -6526,7 +6484,7 @@
       "id": 74
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -6547,7 +6505,7 @@
       "id": 75
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -6596,7 +6554,7 @@
     },
     {
       "Boolean": false,
-      "Alpha": 130,
+      "Alpha": 108,
       "FadeAlpha": 255,
       "Rainbow": false,
       "Fade": false,
@@ -6648,7 +6606,7 @@
     },
     {
       "Boolean": false,
-      "Alpha": 137,
+      "Alpha": 121,
       "FadeAlpha": 255,
       "Rainbow": false,
       "Fade": false,
@@ -6661,8 +6619,8 @@
       "Fade Dist": 0.0,
       "HSB Color": [
         0.0,
-        0.9952153,
-        0.9952153
+        0.996063,
+        0.99607843
       ],
       "HSB FadeColor": [
         0.0,
@@ -6699,7 +6657,7 @@
       "id": 1541
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -7005,7 +6963,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 0.1,
       "MinValue": 0.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -7026,7 +6984,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 0.1,
       "MinValue": 0.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -7035,7 +6993,7 @@
       "id": 2
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -7236,7 +7194,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 180.0,
+      "Value": 90.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -7308,7 +7266,7 @@
       "id": 2
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -7467,7 +7425,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 180.0,
+      "Value": 90.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -7488,7 +7446,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 20.0,
+      "Value": 10.0,
       "MinValue": 0.0,
       "MaxValue": 20.0,
       "DecimalPlaces": 2,
@@ -7560,7 +7518,7 @@
       "id": 3
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -7725,9 +7683,9 @@
         0.99607843
       ],
       "HSB FadeColor": [
-        0.6065089,
-        0.6653543,
-        0.99607843
+        0.26738608,
+        0.99285716,
+        0.54901963
       ],
       "Value": 0.0,
       "MinValue": 0.0,
@@ -7848,7 +7806,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Dash",
+      "SelectedOption": "Bracket",
       "Options": [
         "None",
         "Simple",
@@ -8003,10 +7961,10 @@
     },
     {
       "Boolean": false,
-      "Alpha": 160,
-      "FadeAlpha": 251,
+      "Alpha": 63,
+      "FadeAlpha": 106,
       "Rainbow": false,
-      "Fade": false,
+      "Fade": true,
       "Astolfo Speed": 0.0,
       "Astolfo Dist": 0.0,
       "Astolfo": false,
@@ -8015,14 +7973,14 @@
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
       "HSB Color": [
-        0.0,
-        0.0,
-        0.0
+        0.68333334,
+        0.51724136,
+        0.22745098
       ],
       "HSB FadeColor": [
         0.0,
-        1.0,
-        0.03529412
+        0.0,
+        0.0
       ],
       "Value": 0.0,
       "MinValue": 0.0,
@@ -8238,7 +8196,7 @@
       "id": 1341
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -8271,7 +8229,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 200.0,
+      "Value": 172.1,
       "MinValue": 0.0,
       "MaxValue": 255.0,
       "DecimalPlaces": 1,
@@ -8876,7 +8834,7 @@
       "id": 7
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -8904,7 +8862,7 @@
       "Fade": false,
       "Astolfo Speed": 70.0,
       "Astolfo Dist": 60.0,
-      "Astolfo": true,
+      "Astolfo": false,
       "Rainbow Speed": 129.0,
       "Rainbow Dist": 43.0,
       "Fade Speed": 200.0,
@@ -8956,13 +8914,13 @@
       "Fade": false,
       "Astolfo Speed": 70.0,
       "Astolfo Dist": 60.0,
-      "Astolfo": false,
-      "Rainbow Speed": 1.0,
+      "Astolfo": true,
+      "Rainbow Speed": 40.0,
       "Rainbow Dist": 0.0,
       "Fade Speed": 87.0,
       "Fade Dist": 38.0,
       "HSB Color": [
-        0.0,
+        0.54018444,
         0.996063,
         0.99607843
       ],
@@ -9001,7 +8959,7 @@
       "id": 3
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -9022,7 +8980,7 @@
       "id": 4
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -9043,7 +9001,7 @@
       "id": 5
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -9076,7 +9034,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 7.0,
+      "Value": 2.0,
       "MinValue": 0.0,
       "MaxValue": 15.0,
       "DecimalPlaces": 0,
@@ -9097,7 +9055,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 7.0,
+      "Value": 6.0,
       "MinValue": 0.0,
       "MaxValue": 15.0,
       "DecimalPlaces": 0,
@@ -9149,26 +9107,26 @@
     },
     {
       "Boolean": false,
-      "Alpha": 65,
-      "FadeAlpha": 65,
+      "Alpha": 52,
+      "FadeAlpha": 63,
       "Rainbow": false,
       "Fade": false,
       "Astolfo Speed": 0.0,
       "Astolfo Dist": 0.0,
       "Astolfo": false,
-      "Rainbow Speed": 0.0,
+      "Rainbow Speed": 1.0,
       "Rainbow Dist": 0.0,
-      "Fade Speed": 0.0,
-      "Fade Dist": 0.0,
+      "Fade Speed": 43.0,
+      "Fade Dist": 56.0,
       "HSB Color": [
-        0.5869219,
-        0.90869564,
-        0.9019608
+        0.0,
+        0.0,
+        0.99607843
       ],
       "HSB FadeColor": [
-        0.5869219,
-        0.90869564,
-        0.9019608
+        0.17193675,
+        0.996063,
+        0.99607843
       ],
       "Value": 0.0,
       "MinValue": 0.0,
@@ -9219,7 +9177,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 6.0,
+      "Value": 5.0,
       "MinValue": 0.0,
       "MaxValue": 15.0,
       "DecimalPlaces": 0,
@@ -9240,7 +9198,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 6.0,
+      "Value": 5.0,
       "MinValue": 0.0,
       "MaxValue": 32.0,
       "DecimalPlaces": 0,
@@ -9324,7 +9282,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.13,
+      "Value": 0.0,
       "MinValue": -0.5,
       "MaxValue": 1.5,
       "DecimalPlaces": 2,
@@ -9333,7 +9291,7 @@
       "id": 2
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -9512,7 +9470,7 @@
       "id": 4
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -9638,7 +9596,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Basic",
+      "SelectedOption": "Xave",
       "Options": [
         "None",
         "Basic",
@@ -9883,12 +9841,12 @@
       "Astolfo": false,
       "Rainbow Speed": 74.0,
       "Rainbow Dist": 50.0,
-      "Fade Speed": 53.0,
+      "Fade Speed": 0.0,
       "Fade Dist": 240.0,
       "HSB Color": [
         0.0,
         0.0,
-        0.8745098
+        0.99607843
       ],
       "HSB FadeColor": [
         0.9953887,
@@ -10250,7 +10208,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 100.0,
       "MinValue": 0.0,
       "MaxValue": 100.0,
       "DecimalPlaces": 1,
@@ -10271,7 +10229,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 35.5,
+      "Value": 91.0,
       "MinValue": 0.0,
       "MaxValue": 100.0,
       "DecimalPlaces": 1,
@@ -10510,7 +10468,7 @@
       "id": 3
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -10625,7 +10583,7 @@
       "id": 1354
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -10658,7 +10616,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 14040.0,
+      "Value": 11880.0,
       "MinValue": 0.0,
       "MaxValue": 24000.0,
       "DecimalPlaces": 0,
@@ -10759,19 +10717,19 @@
       "Astolfo Speed": 100.0,
       "Astolfo Dist": 0.0,
       "Astolfo": false,
-      "Rainbow Speed": 2000.0,
+      "Rainbow Speed": 151.0,
       "Rainbow Dist": 0.0,
       "Fade Speed": 23.0,
       "Fade Dist": 0.0,
       "HSB Color": [
-        0.1056701,
-        0.7637795,
-        0.99607843
+        0.7425742,
+        0.6917808,
+        0.57254905
       ],
       "HSB FadeColor": [
-        0.3186004,
-        0.8153153,
-        0.87058824
+        0.55,
+        0.81395346,
+        0.3372549
       ],
       "Value": 0.0,
       "MinValue": 0.0,
@@ -11159,7 +11117,7 @@
       "id": 8
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -11201,7 +11159,7 @@
       "id": 1354
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -11225,7 +11183,7 @@
       "Boolean": false,
       "Alpha": 238,
       "FadeAlpha": 0,
-      "Rainbow": true,
+      "Rainbow": false,
       "Fade": false,
       "Astolfo Speed": 0.0,
       "Astolfo Dist": 0.0,
@@ -11235,7 +11193,7 @@
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
       "HSB Color": [
-        0.5869219,
+        0.6212122,
         0.90869564,
         0.9019608
       ],
@@ -11253,7 +11211,7 @@
       "id": 1
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -11316,7 +11274,7 @@
       "id": 1354
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -12101,7 +12059,7 @@
       "id": 3
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -12143,7 +12101,7 @@
       "id": 5
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -12363,7 +12321,7 @@
       "id": 1354
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -12469,7 +12427,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "E-sound",
+      "SelectedOption": "LCA_MODZ",
       "Options": [
         ""
       ],
@@ -12595,7 +12553,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 15.0,
+      "Value": 10.0,
       "MinValue": 1.0,
       "MaxValue": 30.0,
       "DecimalPlaces": 0,
@@ -12617,7 +12575,7 @@
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
       "HSB Color": [
-        0.0,
+        0.64163375,
         0.996063,
         0.99607843
       ],
@@ -12647,7 +12605,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 20.0,
+      "Value": 12.0,
       "MinValue": 0.0,
       "MaxValue": 50.0,
       "DecimalPlaces": 0,
@@ -12698,7 +12656,7 @@
       "id": 1355
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -12720,7 +12678,7 @@
     },
     {
       "Boolean": false,
-      "Alpha": 212,
+      "Alpha": 100,
       "FadeAlpha": 100,
       "Rainbow": false,
       "Fade": false,
@@ -12751,7 +12709,7 @@
     },
     {
       "Boolean": false,
-      "Alpha": 212,
+      "Alpha": 100,
       "FadeAlpha": 100,
       "Rainbow": false,
       "Fade": false,
@@ -12827,7 +12785,7 @@
       "HSB Color": [
         0.0,
         0.0,
-        0.99607843
+        1.0
       ],
       "HSB FadeColor": [
         0.0,
@@ -12876,7 +12834,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 80.0,
       "MinValue": 0.0,
       "MaxValue": 100.0,
       "DecimalPlaces": 2,
@@ -12897,7 +12855,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 95.45,
+      "Value": 80.0,
       "MinValue": 0.0,
       "MaxValue": 100.0,
       "DecimalPlaces": 2,
@@ -13186,7 +13144,7 @@
       "id": 2
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -13459,7 +13417,7 @@
       "id": 12
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -13576,7 +13534,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.7,
+      "Value": 1.0,
       "MinValue": 0.2,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13597,7 +13555,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.2,
+      "Value": 1.0,
       "MinValue": 0.2,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13639,7 +13597,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 0.87,
       "MinValue": 0.3,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13660,7 +13618,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 0.87,
       "MinValue": 0.3,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13681,7 +13639,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.7,
+      "Value": 1.0,
       "MinValue": 0.2,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13702,7 +13660,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.2,
+      "Value": 1.0,
       "MinValue": 0.2,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13744,7 +13702,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.2,
+      "Value": 0.87,
       "MinValue": 0.3,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13765,7 +13723,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.2,
+      "Value": 0.87,
       "MinValue": 0.3,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13786,7 +13744,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.7,
+      "Value": 1.0,
       "MinValue": 0.2,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13807,7 +13765,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.2,
+      "Value": 1.0,
       "MinValue": 0.2,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13849,7 +13807,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.42,
+      "Value": 0.87,
       "MinValue": 0.3,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13870,7 +13828,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.2,
+      "Value": 0.87,
       "MinValue": 0.3,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -13924,7 +13882,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 2.7,
       "MinValue": 0.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 2,
@@ -13945,7 +13903,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 1.75,
       "MinValue": 0.0,
       "MaxValue": 5.0,
       "DecimalPlaces": 2,
@@ -13996,7 +13954,7 @@
       "id": 5
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -14029,7 +13987,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 0.1,
       "MinValue": 0.1,
       "MaxValue": 10.0,
       "DecimalPlaces": 2,
@@ -14054,7 +14012,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Matrix",
+      "SelectedOption": "Normal",
       "Options": [
         "Normal",
         "Matrix",
@@ -14065,7 +14023,7 @@
       "id": 0
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -14086,7 +14044,7 @@
       "id": 1
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -14144,7 +14102,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "OnlyMovement",
+      "SelectedOption": "All",
       "Options": [
         "OnlyMovement",
         "All"
@@ -14170,7 +14128,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Vanilla1",
+      "SelectedOption": "Vanilla2",
       "Options": [
         "Vanilla1",
         "Vanilla2",
@@ -14241,7 +14199,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 3.2,
       "MinValue": 0.1,
       "MaxValue": 9.0,
       "DecimalPlaces": 1,
@@ -14308,7 +14266,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Speed",
+      "SelectedOption": "AirStuck",
       "Options": [
         "Teleport",
         "OnGround",
@@ -14441,7 +14399,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Basic",
+      "SelectedOption": "Jump",
       "Options": [
         "Basic",
         "Jump"
@@ -14463,7 +14421,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.16,
+      "Value": -0.2,
       "MinValue": -0.42,
       "MaxValue": 0.42,
       "DecimalPlaces": 2,
@@ -14505,7 +14463,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.42,
+      "Value": 0.3,
       "MinValue": 0.0,
       "MaxValue": 2.0,
       "DecimalPlaces": 2,
@@ -14551,7 +14509,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Intave",
+      "SelectedOption": "Ignore",
       "Options": [
         "Intave",
         "Ignore"
@@ -14615,7 +14573,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 495.0,
+      "Value": 400.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -14661,7 +14619,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Vanilla",
+      "SelectedOption": "IntaveTest",
       "Options": [
         "Vanilla",
         "NCPPacket",
@@ -14674,7 +14632,7 @@
       "id": 1
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -14733,7 +14691,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 10.0,
+      "Value": 4.0,
       "MinValue": 1.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 2,
@@ -14843,7 +14801,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.42,
+      "Value": 1.0,
       "MinValue": 0.42,
       "MaxValue": 5.0,
       "DecimalPlaces": 2,
@@ -14864,7 +14822,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.42,
+      "Value": 1.0,
       "MinValue": 0.42,
       "MaxValue": 5.0,
       "DecimalPlaces": 2,
@@ -14889,7 +14847,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "OnGround",
+      "SelectedOption": "Legit",
       "Options": [
         "OnGround",
         "NoGround",
@@ -14935,7 +14893,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 6.0,
+      "Value": 4.0,
       "MinValue": 2.0,
       "MaxValue": 24.0,
       "DecimalPlaces": 1,
@@ -15055,7 +15013,7 @@
       "id": 1
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -15076,7 +15034,7 @@
       "id": 8
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -15109,7 +15067,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -15130,7 +15088,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 152.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -15151,7 +15109,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 216.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -15160,7 +15118,7 @@
       "id": 6792
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -15286,7 +15244,7 @@
       "id": 10
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -15323,7 +15281,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Basic",
+      "SelectedOption": "Nearest",
       "Options": [
         "Basic",
         "Nearest"
@@ -15386,7 +15344,7 @@
       "id": 1
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -15407,7 +15365,7 @@
       "id": 5
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -15440,7 +15398,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 70.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -15461,7 +15419,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 120.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -15482,7 +15440,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -15503,7 +15461,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -15524,7 +15482,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 300.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -15575,7 +15533,7 @@
       "id": 8
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -15608,7 +15566,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 5.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 100.0,
       "DecimalPlaces": 0,
@@ -15633,7 +15591,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Basic",
+      "SelectedOption": "Nearest",
       "Options": [
         "Basic",
         "Nearest",
@@ -15682,7 +15640,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 200.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -15724,7 +15682,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 100.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -15907,7 +15865,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Resprint",
+      "SelectedOption": "Basic",
       "Options": [
         "Basic",
         "Resprint"
@@ -15933,7 +15891,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "All Tools",
+      "SelectedOption": "Only Tools",
       "Options": [
         "All Tools",
         "Only Sword",
@@ -15956,7 +15914,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 500.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 2000.0,
       "DecimalPlaces": 0,
@@ -15977,7 +15935,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 10.0,
+      "Value": 6.0,
       "MinValue": 1.0,
       "MaxValue": 50.0,
       "DecimalPlaces": 0,
@@ -16007,7 +15965,7 @@
       "id": 3
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -16089,7 +16047,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 74.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -16110,7 +16068,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 48.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -16251,7 +16209,7 @@
       "id": 11
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -16272,7 +16230,7 @@
       "id": 2
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -16389,7 +16347,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 30.0,
+      "Value": 9.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -16410,7 +16368,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 50.0,
+      "Value": 25.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -16419,7 +16377,7 @@
       "id": 6793
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -16482,7 +16440,7 @@
       "id": 7
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -16540,7 +16498,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 21.0,
+      "Value": 20.0,
       "MinValue": 2.0,
       "MaxValue": 31.0,
       "DecimalPlaces": 0,
@@ -16899,7 +16857,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 2.0,
+      "Value": 1.1,
       "MinValue": 1.0,
       "MaxValue": 2.0,
       "DecimalPlaces": 2,
@@ -16962,7 +16920,7 @@
       "id": 3
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -16983,7 +16941,7 @@
       "id": 1
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17079,7 +17037,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 180.0,
+      "Value": 74.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -17100,7 +17058,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 180.0,
+      "Value": 100.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -17121,7 +17079,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 180.0,
+      "Value": 70.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -17142,7 +17100,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 180.0,
+      "Value": 100.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -17193,7 +17151,7 @@
       "id": 8
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17226,7 +17184,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 10000.0,
+      "Value": 4000.0,
       "MinValue": 0.0,
       "MaxValue": 20000.0,
       "DecimalPlaces": 0,
@@ -17289,7 +17247,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 60.0,
+      "Value": 180.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -17310,7 +17268,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 60.0,
+      "Value": 180.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -17319,7 +17277,7 @@
       "id": 3
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17361,7 +17319,7 @@
       "id": 33
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17382,7 +17340,7 @@
       "id": 9
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17424,7 +17382,7 @@
       "id": 21
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17445,7 +17403,7 @@
       "id": 7
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17466,7 +17424,7 @@
       "id": 24
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17499,7 +17457,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 3.0,
       "DecimalPlaces": 0,
@@ -17508,7 +17466,7 @@
       "id": 8
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17529,7 +17487,7 @@
       "id": 13
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17571,7 +17529,7 @@
       "id": 4
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17592,7 +17550,7 @@
       "id": 105
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17613,7 +17571,7 @@
       "id": 5
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17646,7 +17604,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 24.0,
       "MinValue": 0.0,
       "MaxValue": 200.0,
       "DecimalPlaces": 0,
@@ -17655,7 +17613,7 @@
       "id": 22
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17739,7 +17697,7 @@
       "id": 18
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17781,7 +17739,7 @@
       "id": 26
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17865,7 +17823,7 @@
       "id": 102
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17886,7 +17844,7 @@
       "id": 29
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17907,7 +17865,7 @@
       "id": 13
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -17982,7 +17940,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 15.0,
       "MinValue": 1.0,
       "MaxValue": 15.0,
       "DecimalPlaces": 0,
@@ -18003,7 +17961,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 15.0,
       "MinValue": 1.0,
       "MaxValue": 15.0,
       "DecimalPlaces": 0,
@@ -18135,7 +18093,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 30.0,
+      "Value": 180.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -18156,7 +18114,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 50.0,
+      "Value": 180.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -18177,7 +18135,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 30.0,
+      "Value": 180.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -18198,7 +18156,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 50.0,
+      "Value": 180.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -18207,7 +18165,7 @@
       "id": 6791
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -18312,7 +18270,7 @@
       "id": 13
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -18354,7 +18312,7 @@
       "id": 5
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -18375,7 +18333,7 @@
       "id": 7
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -18627,7 +18585,7 @@
       "id": 103
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -18690,7 +18648,7 @@
       "id": 13
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -18753,7 +18711,7 @@
       "id": 27
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -18786,7 +18744,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 12.0,
       "MinValue": 1.0,
       "MaxValue": 15.0,
       "DecimalPlaces": 0,
@@ -18807,7 +18765,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 12.0,
       "MinValue": 1.0,
       "MaxValue": 15.0,
       "DecimalPlaces": 0,
@@ -18943,7 +18901,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Legit",
+      "SelectedOption": "Intave",
       "Options": [
         "Legit",
         "Intave",
@@ -18969,7 +18927,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.4,
+      "Value": 0.3,
       "MinValue": 0.01,
       "MaxValue": 0.4,
       "DecimalPlaces": 2,
@@ -18990,7 +18948,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.37,
+      "Value": 0.5,
       "MinValue": 0.37,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -19297,7 +19255,7 @@
       "id": 2
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -19318,7 +19276,7 @@
       "id": 0
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -19540,7 +19498,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1000.0,
+      "Value": 1.0,
       "MinValue": 1.0,
       "MaxValue": 4000.0,
       "DecimalPlaces": 0,
@@ -19586,7 +19544,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "PikaSkywars",
+      "SelectedOption": "MinemenUnranked",
       "Options": [
         "MinemenUnranked",
         "MinemenRanked",
@@ -19613,7 +19571,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Sumo",
+      "SelectedOption": "Boxing",
       "Options": [
         "Sumo",
         "Boxing"
@@ -19623,7 +19581,7 @@
       "id": 3
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -19812,7 +19770,7 @@
       "id": 1
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -19891,7 +19849,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Normal",
+      "SelectedOption": "Gomme",
       "Options": [
         "Normal",
         "Gomme"
@@ -19913,7 +19871,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 792.0,
+      "Value": 2000.0,
       "MinValue": 500.0,
       "MaxValue": 5000.0,
       "DecimalPlaces": 0,
@@ -19934,7 +19892,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1332.0,
+      "Value": 3000.0,
       "MinValue": 500.0,
       "MaxValue": 5000.0,
       "DecimalPlaces": 0,
@@ -20039,7 +19997,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 90.0,
+      "Value": 93.0,
       "MinValue": 0.0,
       "MaxValue": 100.0,
       "DecimalPlaces": 0,
@@ -20184,7 +20142,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1000.0,
+      "Value": 1260.0,
       "MinValue": 0.0,
       "MaxValue": 4000.0,
       "DecimalPlaces": 0,
@@ -20255,7 +20213,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Lunar",
+      "SelectedOption": "LabyMod",
       "Options": [
         "Lunar",
         "LabyMod",

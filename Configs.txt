@@ -2,3 +2,4 @@ Gomme
 GommeLegit
 GommeGG
 Pika
+Hypixel
