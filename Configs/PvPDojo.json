@@ -1,7 +1,7 @@
 {
   "name": "PvPDojo",
   "date": "11.07.2022",
-  "time": "18:02",
+  "time": "21:01",
   "modules": [
     {
       "Name": "Blur",
@@ -615,7 +615,7 @@
       "Name": "Step",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "MOVEMENT"
     },
@@ -15459,7 +15459,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Minemora1",
+      "SelectedOption": "OldVerus",
       "Options": [
         "Vanilla1",
         "Vanilla2",
@@ -15573,7 +15573,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1.0,
+      "Value": 9.0,
       "MinValue": 0.1,
       "MaxValue": 9.0,
       "DecimalPlaces": 1,
@@ -21508,7 +21508,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 720.0,
+      "Value": 4000.0,
       "MinValue": 1.0,
       "MaxValue": 4000.0,
       "DecimalPlaces": 0,
@@ -21529,7 +21529,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 1360.0,
+      "Value": 4000.0,
       "MinValue": 1.0,
       "MaxValue": 4000.0,
       "DecimalPlaces": 0,
