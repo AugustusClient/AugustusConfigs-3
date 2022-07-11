@@ -1,7 +1,7 @@
 {
   "name": "MineMenBot",
   "date": "11.07.2022",
-  "time": "17:58",
+  "time": "18:02",
   "modules": [
     {
       "Name": "Blur",
@@ -775,7 +775,7 @@
       "Name": "AirStuck",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "PLAYER"
     },

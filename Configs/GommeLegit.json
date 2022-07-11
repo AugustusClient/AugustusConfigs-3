@@ -1,7 +1,7 @@
 {
   "name": "GommeLegit",
   "date": "11.07.2022",
-  "time": "17:57",
+  "time": "18:02",
   "modules": [
     {
       "Name": "Blur",
@@ -775,7 +775,7 @@
       "Name": "AirStuck",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "PLAYER"
     },
@@ -17813,7 +17813,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Intave",
+      "SelectedOption": "NoRotate",
       "Options": [
         "NoRotate",
         "CanRotate",
