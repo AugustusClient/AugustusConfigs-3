@@ -1,7 +1,7 @@
 {
   "name": "PvPDojo",
   "date": "11.07.2022",
-  "time": "21:01",
+  "time": "22:07",
   "modules": [
     {
       "Name": "Blur",
@@ -15146,7 +15146,8 @@
         "CubeCraft",
         "Verus",
         "Minemora",
-        "Dojo"
+        "Dojo",
+        "Strafe"
       ],
       "Name": "Mode",
       "ParentName": "Speed",
@@ -21265,7 +21266,7 @@
       "id": 0
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
