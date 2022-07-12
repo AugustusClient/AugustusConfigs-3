@@ -1,7 +1,7 @@
 {
   "name": "Gomme",
-  "date": "11.07.2022",
-  "time": "22:07",
+  "date": "12.07.2022",
+  "time": "23:48",
   "modules": [
     {
       "Name": "Blur",
@@ -263,7 +263,7 @@
       "Name": "Tracers",
       "IsInConfig": false,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -487,7 +487,7 @@
       "Name": "CustomCape",
       "IsInConfig": false,
       "IsInArraylist": false,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -495,7 +495,7 @@
       "Name": "CustomCameraHeight",
       "IsInConfig": false,
       "IsInArraylist": false,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -519,7 +519,7 @@
       "Name": "NoSlow",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "MOVEMENT"
     },
@@ -552,7 +552,7 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": false,
-      "Key": 47,
+      "Key": 0,
       "Category": "MOVEMENT"
     },
     {
@@ -624,7 +624,7 @@
       "IsInConfig": true,
       "IsInArraylist": true,
       "Toggled": false,
-      "Key": 0,
+      "Key": 47,
       "Category": "MOVEMENT"
     },
     {
@@ -3450,7 +3450,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 4.0,
+      "Value": 3.0,
       "MinValue": 1.0,
       "MaxValue": 4.0,
       "DecimalPlaces": 0,
@@ -3513,7 +3513,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 22.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 300.0,
       "DecimalPlaces": 0,
@@ -3627,7 +3627,7 @@
       "id": 9
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -10622,7 +10622,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Basic",
+      "SelectedOption": "Amogus",
       "Options": [
         "None",
         "Basic",
@@ -14116,7 +14116,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Natsiu",
+      "SelectedOption": "SeanieMc3D",
       "Options": [],
       "Name": "CustomName",
       "ParentName": "CustomSkin",
@@ -15147,7 +15147,8 @@
         "Verus",
         "Minemora",
         "Dojo",
-        "Strafe"
+        "Strafe",
+        "Sentry"
       ],
       "Name": "Mode",
       "ParentName": "Speed",
@@ -22600,6 +22601,48 @@
       "Name": "MaxAFKDelay",
       "ParentName": "AntiAFK",
       "id": 6790
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Astolfo Speed": 0.0,
+      "Astolfo Dist": 0.0,
+      "Astolfo": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "ResourcePack",
+      "ParentName": "ExploitFixer",
+      "id": 1
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Astolfo Speed": 0.0,
+      "Astolfo Dist": 0.0,
+      "Astolfo": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "IntaveEntityCrash",
+      "ParentName": "ExploitFixer",
+      "id": 2
     },
     {
       "Boolean": false,
