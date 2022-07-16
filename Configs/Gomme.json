@@ -1,7 +1,7 @@
 {
   "name": "Gomme",
-  "date": "12.07.2022",
-  "time": "23:48",
+  "date": "16.07.2022",
+  "time": "16:02",
   "modules": [
     {
       "Name": "Blur",
@@ -935,7 +935,7 @@
       "Name": "StaffDetector",
       "IsInConfig": true,
       "IsInArraylist": false,
-      "Toggled": false,
+      "Toggled": true,
       "Key": 0,
       "Category": "MISC"
     },
@@ -1048,6 +1048,14 @@
       "IsInConfig": false,
       "IsInArraylist": true,
       "Toggled": false,
+      "Key": 0,
+      "Category": "FUN"
+    },
+    {
+      "Name": "JobSystemBreaker",
+      "IsInConfig": true,
+      "IsInArraylist": true,
+      "Toggled": true,
       "Key": 0,
       "Category": "FUN"
     }
@@ -3450,7 +3458,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 3.0,
+      "Value": 4.0,
       "MinValue": 1.0,
       "MaxValue": 4.0,
       "DecimalPlaces": 0,
@@ -3513,7 +3521,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": 0.0,
+      "Value": 22.0,
       "MinValue": 0.0,
       "MaxValue": 300.0,
       "DecimalPlaces": 0,
@@ -3627,7 +3635,7 @@
       "id": 9
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
       "Rainbow": false,
@@ -16153,7 +16161,7 @@
       "Rainbow Dist": 0.0,
       "Fade Speed": 0.0,
       "Fade Dist": 0.0,
-      "Value": -9.9,
+      "Value": -10.0,
       "MinValue": -10.0,
       "MaxValue": -1.0,
       "DecimalPlaces": 2,
@@ -22959,6 +22967,48 @@
       "Options": [],
       "Name": "KillMessageCustom",
       "ParentName": "KillMessage",
+      "id": 2
+    },
+    {
+      "Boolean": false,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Astolfo Speed": 0.0,
+      "Astolfo Dist": 0.0,
+      "Astolfo": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 6.0,
+      "MinValue": 4.5,
+      "MaxValue": 6.0,
+      "DecimalPlaces": 2,
+      "Name": "Range",
+      "ParentName": "JobSystemBreaker",
+      "id": 1
+    },
+    {
+      "Boolean": false,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Astolfo Speed": 0.0,
+      "Astolfo Dist": 0.0,
+      "Astolfo": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 1.0,
+      "MinValue": 1.0,
+      "MaxValue": 10000.0,
+      "DecimalPlaces": 0,
+      "Name": "Multiplier",
+      "ParentName": "JobSystemBreaker",
       "id": 2
     }
   ]
