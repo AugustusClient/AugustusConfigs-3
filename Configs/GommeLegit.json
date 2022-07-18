@@ -1,7 +1,7 @@
 {
   "name": "GommeLegit",
-  "date": "16.07.2022",
-  "time": "16:02",
+  "date": "18.07.2022",
+  "time": "17:18",
   "modules": [
     {
       "Name": "Blur",
@@ -1055,7 +1055,7 @@
       "Name": "JobSystemBreaker",
       "IsInConfig": true,
       "IsInArraylist": true,
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "FUN"
     }
@@ -3651,9 +3651,15 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "Name": "Fix",
+      "SelectedOption": "None",
+      "Options": [
+        "None",
+        "Fix1",
+        "Fix2"
+      ],
+      "Name": "FixMode",
       "ParentName": "TimerRange",
-      "id": 10
+      "id": 11
     },
     {
       "Boolean": false,
@@ -21866,6 +21872,48 @@
       "id": 3
     },
     {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Astolfo Speed": 0.0,
+      "Astolfo Dist": 0.0,
+      "Astolfo": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "AdStafeOnHit",
+      "ParentName": "AutoWalk",
+      "id": 4
+    },
+    {
+      "Boolean": false,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Astolfo Speed": 0.0,
+      "Astolfo Dist": 0.0,
+      "Astolfo": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 200.0,
+      "MinValue": 0.0,
+      "MaxValue": 1000.0,
+      "DecimalPlaces": 0,
+      "Name": "AdStafeTime",
+      "ParentName": "AutoWalk",
+      "id": 5
+    },
+    {
       "Boolean": false,
       "Alpha": 0,
       "FadeAlpha": 0,
@@ -21969,6 +22017,27 @@
       "Name": "ServersideChat",
       "ParentName": "Debug",
       "id": 2
+    },
+    {
+      "Boolean": true,
+      "Alpha": 0,
+      "FadeAlpha": 0,
+      "Rainbow": false,
+      "Fade": false,
+      "Astolfo Speed": 0.0,
+      "Astolfo Dist": 0.0,
+      "Astolfo": false,
+      "Rainbow Speed": 0.0,
+      "Rainbow Dist": 0.0,
+      "Fade Speed": 0.0,
+      "Fade Dist": 0.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "OnlyDebugChat",
+      "ParentName": "Debug",
+      "id": 6
     },
     {
       "Boolean": false,
@@ -22989,27 +23058,6 @@
       "Name": "Range",
       "ParentName": "JobSystemBreaker",
       "id": 1
-    },
-    {
-      "Boolean": false,
-      "Alpha": 0,
-      "FadeAlpha": 0,
-      "Rainbow": false,
-      "Fade": false,
-      "Astolfo Speed": 0.0,
-      "Astolfo Dist": 0.0,
-      "Astolfo": false,
-      "Rainbow Speed": 0.0,
-      "Rainbow Dist": 0.0,
-      "Fade Speed": 0.0,
-      "Fade Dist": 0.0,
-      "Value": 1.0,
-      "MinValue": 1.0,
-      "MaxValue": 10000.0,
-      "DecimalPlaces": 0,
-      "Name": "Multiplier",
-      "ParentName": "JobSystemBreaker",
-      "id": 2
     }
   ]
 }
